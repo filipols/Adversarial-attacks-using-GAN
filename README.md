@@ -1,6 +1,6 @@
 # Adversarial attacks - Generative Adversarial Network (GAN) project
 
-Full PDF report found [here](./Adversarial_attacks_report.pdf)
+Full PDF report found [here](./adversarial_attacks_report.pdf)
 
 # Abstract
 
