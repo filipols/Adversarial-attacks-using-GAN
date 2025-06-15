@@ -1,8 +1,8 @@
 # Adversarial attacks - Generative Adversarial Network (GAN) project
 
-Full PDF report found [here](./adversarial_attacks_report.pdf)
+📄 Full PDF available [here](./adversarial_attacks_report.pdf)
 
-Poster found [here](./TIF360_Advanced_machine_learning_with_neural_networks___poster.pdf)
+📄 Poster available [here](./TIF360_Advanced_machine_learning_with_neural_networks___poster.pdf)
 
 # Abstract
 
