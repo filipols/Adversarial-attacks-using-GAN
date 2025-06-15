@@ -1,6 +1,6 @@
 # Adversarial attacks - Generative Adversarial Network (GAN) project
 
-PDF report found [here](TIF360 U-Net based GAN.pdf)
+PDF report found [here](./Adversarial_attacks_report.pdf)
 
 # Abstract
 
