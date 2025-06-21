@@ -4,7 +4,7 @@
 
 📄 Poster available [here](./TIF360_Advanced_machine_learning_with_neural_networks___poster.pdf)
 
-Code available [here](./GAN_U_NET.ipynb)
+Code available [here](./GAN_U_net.ipynb)
 
 # Abstract
 
